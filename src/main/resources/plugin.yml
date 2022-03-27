@@ -1,0 +1,5 @@
+name: StaffCore
+version: 1.0
+author: elijuh
+main: me.elijuh.staffcore.Core
+depend: [Vault, PlaceholderAPI]
